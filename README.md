@@ -1,1 +1,1 @@
-# python-projects
+# simple-chatty-bot
